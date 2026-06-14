@@ -36,7 +36,7 @@ Installation
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ai-resume-screener.git
+git clone https://github.com/jjama415/ai-resume-screener.git
 cd ai-resume-screener
 ```
 
@@ -51,6 +51,7 @@ Create a `.env` file:
 ```env
 OPENAI_API_KEY=your_api_key_here
 ```
+^^make sure to follow the above format exactly, no spaces before or after the equal sign
 
 Run the application:
 
@@ -96,16 +97,6 @@ Future improvements for a v2
 * User authentication
 * Resume history tracking
 * Advanced analytics and visualizations
-
----
-
-Screenshots
-
-Add screenshots of:
-
-Resume upload screen
-Candidate rankings
-AI analysis results
 
 --
 
